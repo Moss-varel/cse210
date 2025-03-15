@@ -9,7 +9,7 @@ class Program
 
         while (playAgain)
         {
-            // Generate a random magic number between 1 and 100
+            // Random magic number between 1 and 100
             int magicNumber = random.Next(1, 101);
             int guessCount = 0;
             int guess = 0;
