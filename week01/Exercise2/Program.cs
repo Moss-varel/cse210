@@ -45,7 +45,6 @@ class Program
         // Print the letter grade
         Console.WriteLine($"Your letter grade is: {letter}");
 
-        // Stretch Challenge
 
         // Determine the sign (+ or -)
         string sign = "";
