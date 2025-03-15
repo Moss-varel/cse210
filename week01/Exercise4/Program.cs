@@ -24,7 +24,6 @@ class Program
             numbers.Add(number); // Add the number to the list
         }
 
-        // Core Requirements
 
         // Compute the sum
         int sum = numbers.Sum();
