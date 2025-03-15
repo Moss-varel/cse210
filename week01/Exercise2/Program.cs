@@ -39,7 +39,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Keep working hard! Better luck next time.");
+            Console.WriteLine("Better luck next time.");
         }
 
         // Print the letter grade
