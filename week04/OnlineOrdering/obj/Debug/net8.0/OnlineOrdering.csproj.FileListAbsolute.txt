@@ -1,0 +1,15 @@
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/bin/Debug/net8.0/OnlineOrdering
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/bin/Debug/net8.0/OnlineOrdering.deps.json
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/bin/Debug/net8.0/OnlineOrdering.runtimeconfig.json
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/bin/Debug/net8.0/OnlineOrdering.dll
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/bin/Debug/net8.0/OnlineOrdering.pdb
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.AssemblyInfoInputs.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.AssemblyInfo.cs
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.csproj.CoreCompileInputs.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.sourcelink.json
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.dll
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/obj/Debug/net8.0/refint/OnlineOrdering.dll
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.pdb
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/obj/Debug/net8.0/OnlineOrdering.genruntimeconfig.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week04/OnlineOrdering/obj/Debug/net8.0/ref/OnlineOrdering.dll
