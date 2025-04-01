@@ -1,0 +1,5 @@
+/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net7.0/EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net7.0/EternalQuest.AssemblyInfoInputs.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net7.0/EternalQuest.AssemblyInfo.cs
+/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net7.0/EternalQuest.csproj.CoreCompileInputs.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net7.0/EternalQuest.sourcelink.json
