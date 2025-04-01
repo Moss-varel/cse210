@@ -1,0 +1,15 @@
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/bin/Debug/net8.0/Mindfulness
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/bin/Debug/net8.0/Mindfulness.deps.json
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/bin/Debug/net8.0/Mindfulness.runtimeconfig.json
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/bin/Debug/net8.0/Mindfulness.dll
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/bin/Debug/net8.0/Mindfulness.pdb
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/obj/Debug/net8.0/Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/obj/Debug/net8.0/Mindfulness.AssemblyInfoInputs.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/obj/Debug/net8.0/Mindfulness.AssemblyInfo.cs
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/obj/Debug/net8.0/Mindfulness.csproj.CoreCompileInputs.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/obj/Debug/net8.0/Mindfulness.sourcelink.json
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/obj/Debug/net8.0/Mindfulness.dll
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/obj/Debug/net8.0/refint/Mindfulness.dll
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/obj/Debug/net8.0/Mindfulness.pdb
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/obj/Debug/net8.0/Mindfulness.genruntimeconfig.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week05/Mindfulness/obj/Debug/net8.0/ref/Mindfulness.dll
