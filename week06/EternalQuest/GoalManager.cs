@@ -23,7 +23,7 @@ class GoalManager
     {
         for (int i = 0; i < _goals.Count; i++)
         {
-            Console.WriteLine($"{i + 1}. {_goals[i].GetStatus()} {_goals[i].Name}");
+            Console.WriteLine($"{i + 1}. {_goals[i].GetStatus()} {_goals[i].GetName()}");
         }
     }
     
@@ -34,7 +34,7 @@ class GoalManager
             writer.WriteLine(_score);
             foreach (var goal in _goals)
             {
-                writer.WriteLine($"{goal.GetType().Name}:{goal.Name}:{goal.Points}");
+                writer.WriteLine($"{goal.GetType().Name}:{goal.GetName()}:{_points}");
             }
         }
     }

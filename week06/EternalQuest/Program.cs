@@ -20,7 +20,21 @@ class Program
                     string name = Console.ReadLine();
                     Console.Write("Enter points: ");
                     int points = int.Parse(Console.ReadLine());
-                    manager.AddGoal(new SimpleGoal(name, points));
+                    Console.Write("Goal Type (1-Simple, 2-Eternal, 3-Checklist): ");
+                    int type = int.Parse(Console.ReadLine());
+                    
+                    if (type == 1)
+                        manager.AddGoal(new SimpleGoal(name, points));
+                    else if (type == 2)
+                        manager.AddGoal(new EternalGoal(name, points));
+                    else if (type == 3)
+                    {
+                        Console.Write("Enter target count: ");
+                        int targetCount = int.Parse(Console.ReadLine());
+                        Console.Write("Enter bonus points: ");
+                        int bonus = int.Parse(Console.ReadLine());
+                        manager.AddGoal(new ChecklistGoal(name, points, targetCount, bonus));
+                    }
                     break;
                 case "2":
                     manager.ShowGoals();

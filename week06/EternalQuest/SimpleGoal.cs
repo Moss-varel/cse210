@@ -2,10 +2,8 @@ class SimpleGoal : Goal
 {
     private bool _isComplete;
     
-    public SimpleGoal(string name, int points)
+    public SimpleGoal(string name, int points) : base(name, points)
     {
-        Name = name;
-        Points = points;
         _isComplete = false;
     }
     
@@ -14,7 +12,7 @@ class SimpleGoal : Goal
         if (!_isComplete)
         {
             _isComplete = true;
-            return Points;
+            return _points;
         }
         return 0;
     }

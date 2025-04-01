@@ -4,10 +4,8 @@ class ChecklistGoal : Goal
     private int _currentCount;
     private int _bonus;
     
-    public ChecklistGoal(string name, int points, int targetCount, int bonus)
+    public ChecklistGoal(string name, int points, int targetCount, int bonus) : base(name, points)
     {
-        Name = name;
-        Points = points;
         _targetCount = targetCount;
         _currentCount = 0;
         _bonus = bonus;
@@ -16,7 +14,7 @@ class ChecklistGoal : Goal
     public override int RecordEvent()
     {
         _currentCount++;
-        return _currentCount == _targetCount ? Points + _bonus : Points;
+        return _currentCount == _targetCount ? _points + _bonus : _points;
     }
     
     public override string GetStatus() => $"[{_currentCount}/{_targetCount}]";
