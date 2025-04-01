@@ -1,0 +1,15 @@
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer.deps.json
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer.runtimeconfig.json
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer.dll
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/bin/Debug/net8.0/ScriptureMemorizer.pdb
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.AssemblyInfoInputs.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.AssemblyInfo.cs
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.csproj.CoreCompileInputs.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.sourcelink.json
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.dll
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/refint/ScriptureMemorizer.dll
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.pdb
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.genruntimeconfig.cache
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ref/ScriptureMemorizer.dll
