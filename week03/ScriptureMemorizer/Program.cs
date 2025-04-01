@@ -33,26 +33,31 @@ class Program
 
     // Helper method to load scriptures from a file
     static List<Scripture> LoadScripturesFromFile(string filePath)
+{
+    var scriptures = new List<Scripture>();
+    
+    try 
     {
-        var scriptures = new List<Scripture>();
         var lines = File.ReadAllLines(filePath);
-
         foreach (var line in lines)
         {
-            var parts = line.Split('|');
-            if (parts.Length != 2) continue; // Skip invalid lines
+            var parts = line.Split('|'); // Using pipe separator
+            if (parts.Length != 2) continue;
 
             string referenceText = parts[0].Trim();
             string scriptureText = parts[1].Trim();
 
-            // Parse the reference (e.g., "John 3:16" or "Proverbs 3:5-6")
             Reference reference = ParseReference(referenceText);
             scriptures.Add(new Scripture(reference, scriptureText));
         }
-
-        return scriptures;
     }
-
+    catch (Exception ex)
+    {
+        Console.WriteLine($"Error loading scriptures: {ex.Message}");
+    }
+    
+    return scriptures;
+}
     // Helper method to parse reference strings (e.g., "John 3:16" or "Proverbs 3:5-6")
     static Reference ParseReference(string referenceText)
     {

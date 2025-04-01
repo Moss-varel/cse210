@@ -13,3 +13,4 @@
 /Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.pdb
 /Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ScriptureMemorizer.genruntimeconfig.cache
 /Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/obj/Debug/net8.0/ref/ScriptureMemorizer.dll
+/Users/moss/Documents/BYU2025/T2/cse210/week03/ScriptureMemorizer/bin/Debug/net8.0/scriptures.txt
