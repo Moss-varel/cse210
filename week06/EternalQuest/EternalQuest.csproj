@@ -4,3 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
 </Project>
+<ItemGroup>
+  <Compile Include="Program.cs" />
+  <Compile Include="GoalManager.cs" />
+  <Compile Include="Goal.cs" />
+  <Compile Include="SimpleGoal.cs" />
+  <Compile Include="EternalGoal.cs" />
+  <Compile Include="ChecklistGoal.cs" />
+</ItemGroup>
