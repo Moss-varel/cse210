@@ -1,5 +1,0 @@
-/Users/moss/Documents/BYU2025/T2/cse210/week02/Resumes/obj/Debug/net8.0/Resumes.GeneratedMSBuildEditorConfig.editorconfig
-/Users/moss/Documents/BYU2025/T2/cse210/week02/Resumes/obj/Debug/net8.0/Resumes.AssemblyInfoInputs.cache
-/Users/moss/Documents/BYU2025/T2/cse210/week02/Resumes/obj/Debug/net8.0/Resumes.AssemblyInfo.cs
-/Users/moss/Documents/BYU2025/T2/cse210/week02/Resumes/obj/Debug/net8.0/Resumes.csproj.CoreCompileInputs.cache
-/Users/moss/Documents/BYU2025/T2/cse210/week02/Resumes/obj/Debug/net8.0/Resumes.sourcelink.json

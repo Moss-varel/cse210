@@ -1,15 +1,5 @@
-/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/bin/Debug/net8.0/EternalQuest
-/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/bin/Debug/net8.0/EternalQuest.deps.json
-/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/bin/Debug/net8.0/EternalQuest.runtimeconfig.json
-/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/bin/Debug/net8.0/EternalQuest.dll
-/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/bin/Debug/net8.0/EternalQuest.pdb
 /Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
 /Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.AssemblyInfoInputs.cache
 /Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.AssemblyInfo.cs
 /Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.csproj.CoreCompileInputs.cache
 /Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.sourcelink.json
-/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.dll
-/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net8.0/refint/EternalQuest.dll
-/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.pdb
-/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net8.0/EternalQuest.genruntimeconfig.cache
-/Users/moss/Documents/BYU2025/T2/cse210/week06/EternalQuest/obj/Debug/net8.0/ref/EternalQuest.dll
